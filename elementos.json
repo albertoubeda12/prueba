@@ -1,0 +1,38 @@
+[
+  {
+    "key": "fiwave.gestion.contenedor.1",
+    "latitude": 42.466679,
+    "longitude": -2.448142,
+    "name": "fiwave.gestion.contenedor.1"
+  },
+  {
+    "key": "fiwave.gestion.contenedor.2",
+    "latitude": 42.46779,
+    "longitude": -2.446606,
+    "name": "fiwave.gestion.contenedor.2"
+  },
+  {
+    "key": "fiwave.gestion.contenedor.3",
+    "latitude": 42.466791,
+    "longitude": -2.445542,
+    "name": "fiwave.gestion.contenedor.3"
+  },
+  {
+    "key": "fiwave.gestion.contador.1",
+    "latitude": 42.464915,
+    "longitude": -2.445274,
+    "name": "fiwave.gestion.contador.1"
+  },
+  {
+    "key": "fiwave.gestion.contador.2",
+    "latitude": 42.466118,
+    "longitude": -2.446079,
+    "name": "fiwave.gestion.contador.2"
+  },
+  {
+    "key": "fiwave.gestion.contador.3",
+    "latitude": 42.467195,
+    "longitude": -2.44963,
+    "name": "fiwave.gestion.contador.3"
+  }
+]
