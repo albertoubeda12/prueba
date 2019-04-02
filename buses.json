@@ -1,14 +1,14 @@
 [
-	{
-	  "key": "malaga.autobuses.693",
-	  "latitude": -4.4289804,
-	  "longitude": 36.716705,
-	  "name": "wkb_geometry"
-	},
-	{
-	  "key": "malaga.autobuses.701",
-	  "latitude": -4.436191,
-	  "longitude": 36.705883,
-	  "name": "wkb_geometry"
-	}
+{
+  "key": "malaga.autobuses.693",
+  "latitude": -4.4289804,
+  "longitude": 36.716705,
+  "name": "wkb_geometry"
+},
+{
+  "key": "malaga.autobuses.701",
+  "latitude": -4.436191,
+  "longitude": 36.705883,
+  "name": "wkb_geometry"
+}
 ]
