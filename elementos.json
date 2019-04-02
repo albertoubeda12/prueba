@@ -34,5 +34,11 @@
     "latitude": 42.467195,
     "longitude": -2.44963,
     "name": "fiwave.gestion.contador.3"
+  },
+  {
+    "key": "inversor.aresol.fuenmayor.Pot",
+    "latitude": 42.467364,
+    "longitude": -2.565655,
+    "name": "Aresol Fuenmayor"
   }
 ]
